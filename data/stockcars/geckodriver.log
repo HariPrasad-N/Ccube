@@ -1,0 +1,115 @@
+1528825329243	geckodriver	INFO	geckodriver 0.19.1
+1528825329246	geckodriver	INFO	Listening on 127.0.0.1:54977
+1528825330358	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jUCYvzKZYOVa"
+1528825335356	Marionette	INFO	Listening on port 40583
+1528825335386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+1528825477916	geckodriver	INFO	geckodriver 0.19.1
+1528825477919	geckodriver	INFO	Listening on 127.0.0.1:48359
+1528825479032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.np8V6IuAKHA4"
+1528825482841	Marionette	INFO	Listening on port 43111
+1528825482866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+1528826384031	geckodriver	INFO	geckodriver 0.19.1
+1528826384035	geckodriver	INFO	Listening on 127.0.0.1:46777
+1528826385169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LYsMq5zqe3Dj"
+1528826388919	Marionette	INFO	Listening on port 43213
+1528826388984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: http://js.c.photoshelter.com/js/BS/20180611c/0.8.2/BS.com.BSApi.js, line 18: TypeError: "Text missing error" is not a constructor
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: http://js.c.photoshelter.com/js/BS/20180611c/0.8.2/BS.com.BSApi.js, line 18: TypeError: "Text missing error" is not a constructor
+JavaScript error: http://js.c.photoshelter.com/js/BS/20180611c/0.8.2/BS.com.BSApi.js, line 18: TypeError: "Text missing error" is not a constructor
+JavaScript error: http://js.c.photoshelter.com/js/BS/20180611c/0.8.2/BS.com.BSApi.js, line 18: TypeError: "Text missing error" is not a constructor
+JavaScript error: http://js.c.photoshelter.com/js/BS/20180611c/0.8.2/BS.com.BSApi.js, line 18: TypeError: "Text missing error" is not a constructor
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+1528999341139	geckodriver	INFO	geckodriver 0.19.1
+1528999341168	geckodriver	INFO	Listening on 127.0.0.1:46361
+1528999342435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fp9skyT7oa92"
+1528999349266	Marionette	INFO	Listening on port 37871
+1528999349290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: http://js.c.photoshelter.com/js/BS/20180611c/0.8.2/BS.com.BSApi.js, line 18: TypeError: "Text missing error" is not a constructor
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 232: TypeError: this.getBrowserData is not a function
+JavaScript error: https://embed.tawk.to/56b1cdaafe87529955d861a5/default, line 709: TypeError: a is null
+JavaScript error: http://js.c.photoshelter.com/js/BS/20180611c/0.8.2/BS.com.BSApi.js, line 18: TypeError: "Text missing error" is not a constructor
+JavaScript error: http://js.c.photoshelter.com/js/BS/20180611c/0.8.2/BS.com.BSApi.js, line 18: TypeError: "Text missing error" is not a constructor
