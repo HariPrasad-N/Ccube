@@ -62,7 +62,9 @@ links=[]
 for ele in brands:
         links.append(ele.get_attribute("href"))
 
-get_links(links)
+for line in links:
+        print(line)
+#get_links(links)
         
 
 
