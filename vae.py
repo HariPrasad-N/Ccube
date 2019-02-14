@@ -104,7 +104,7 @@ def plot_results(models,
 
 images=[]
 i=0
-for root, dirnames, filenames in os.walk('./processed4'):
+for root, dirnames, filenames in os.walk('./processed'):
     for filename in filenames:
         if re.search("\.(jpg|jpeg|png|bmp|tiff)$", filename):
             filepath=os.path.join(root,filename)
